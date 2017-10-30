@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>SignIn.qml</file>
+        <file>Icons.js</file>
+        <file>materialdesignicons-webfont.ttf</file>
+        <file>Icon.qml</file>
+        <file>Network.js</file>
+        <file>Settings.qml</file>
+    </qresource>
+    <qresource prefix="/icons"/>
+    <qresource prefix="/images">
+        <file>logo_salmon.png</file>
+    </qresource>
+</RCC>
